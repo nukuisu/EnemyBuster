@@ -1,0 +1,7 @@
+name: EnemyBuster
+version: '1.0-SNAPSHOT'
+main: sample.example.enemy1.EnemyBuster
+api-version: '1.21'
+commands:
+  EnemyBuster:
+  enemySpawn:
